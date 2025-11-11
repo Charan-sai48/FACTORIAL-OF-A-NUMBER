@@ -64,10 +64,7 @@ END
 
 **Output:**  
 
-<br>
-<br>
-<br>
-
+<img width="1891" height="982" alt="Screenshot 2025-11-11 213641" src="https://github.com/user-attachments/assets/84e33e0d-f77b-4e8f-83b1-2aa3462ea20f" />
 
 
 **Manual Calculations:**  
