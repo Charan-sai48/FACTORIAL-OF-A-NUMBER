@@ -69,14 +69,7 @@ END
 
 **Manual Calculations:**  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
+<img width="450" height="700" alt="Screenshot 2025-11-11 230129" src="https://github.com/user-attachments/assets/fc609fec-8d6e-4372-a1b8-7ea8aa8ee412" />
 
 
 
